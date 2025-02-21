@@ -1,4 +1,4 @@
-# Hi there, I'm Hippolyte90! 👋
+# Hi there, I'm Hippolyte SODJINOU! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Below you'll find more details about me and my work.
 
