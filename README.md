@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 ## 📫 How to Reach Me
 
 - **Email:** [sodjinouhippolyte@gmail.com](mailto:sodjinouhippolyte@gmail.com)
-- **LinkedIn:** [Hippolyte90](https://www.linkedin.com/in/hippolyte-sodjinou-639850245/)
+- **LinkedIn:** [Hippolyte Sodjinou](https://www.linkedin.com/in/hippolyte-sodjinou-639850245/)
 
 ## 📝 Blog
 
