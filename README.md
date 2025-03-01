@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, R, C, SQL, HTML, Latex
-- **Frameworks & Libraries:** 
+- **Frameworks & Libraries:**  R libraries, Shiny, Numpy, Pandas, Matplotlib, Streamlit, Dash, Tkinter, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost ...
 - **Databases:** MySQL, PostgreSQL, NoSQL, Microsoft SQL Server
 - **Platforms:** Hugging Face, Anaconda, Kaggle,
  ABACUS.AI, Eurostat
