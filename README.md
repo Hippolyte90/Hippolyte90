@@ -3,14 +3,14 @@
 Welcome to my GitHub profile!
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, R, C, SQL, HTML, Latex
+- **Languages:** Python, R, C, SQL, HTML, Stata, Latex
 - **Frameworks & Libraries:**  R libraries, Shiny, Numpy, Pandas, Matplotlib, Streamlit, Dash, Tkinter, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost ...
 - **Databases:** MySQL, PostgreSQL, NoSQL, Microsoft SQL Server
 - **Platforms:** Hugging Face, Anaconda, Kaggle,
  ABACUS.AI, Eurostat
 - **Tools:**  VS Code, JupyterLab (Anaconda),
  Google Colab, R Studio, Power BI,
- Stata, Pack Office, Git.
+ StataNow 18 MP, Pack Office, Git.
 - **Others:** RESTful APIs, Microservices, Data analysis, Statistical modeling, Machine Learning
 
 ## 🌱 Currently Learning
