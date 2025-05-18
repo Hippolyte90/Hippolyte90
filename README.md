@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
  ABACUS.AI, Eurostat, IPUMS
 - **Tools:**  VS Code, JupyterLab (Anaconda),
  Google Colab, R Studio, Power BI,
- StataNow 18 MP, Pack Office, Git.
+ StataNow 18 MP, Pack Office, Git, Cursor.
 - **Others:** RESTful APIs, Microservices, Data analysis, Statistical modeling, Machine Learning
 
 ## 🌱 Currently Learning
