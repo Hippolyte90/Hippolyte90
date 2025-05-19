@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - **Tools:**  VS Code, JupyterLab (Anaconda),
  Google Colab, R Studio, Power BI,
  StataNow 18 MP, Pack Office, Git, Cursor.
-- **Others:** RESTful APIs, Microservices, Data analysis, Statistical modeling, Machine Learning
+- **Others:** RESTful APIs, Microservices, Data analysis, Statistical modeling, Machine Learning, Spatial Analysis
 
 ## 🌱 Currently Learning
 
