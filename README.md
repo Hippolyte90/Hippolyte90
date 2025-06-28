@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - **Frameworks & Libraries:**  R libraries, Shiny, Numpy, Pandas, Matplotlib, Streamlit, Dash, Tkinter, Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, CatBoost ...
 - **Databases:** MySQL, PostgreSQL, NoSQL, Microsoft SQL Server
 - **Platforms:** Hugging Face, Anaconda, Kaggle,
- ABACUS.AI, Eurostat, IPUMS, Dataiku, StackOverflow, Modal.com, wandb.ai
+ ABACUS.AI, Eurostat, IPUMS, Dataiku, StackOverflow, Modal.com, wandb.ai, pushover.net
 - **Tools:**  VS Code, JupyterLab (Anaconda),
  Google Colab, R Studio, Power BI,
  StataNow 18 MP, Pack Office, Git, Cursor, Gradio.
