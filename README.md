@@ -23,32 +23,14 @@ Welcome to my GitHub profile!
 <table style="margin: 0; text-align: left;">
     <tr>
         <td style="width: 300px; height: 300px; vertical-align: middle;">
-            <img src="certification Udemy LLM Engineering_page-0001.jpg" width="300" height="300" style="display: block;" />
+            <img src="certification Udemy LLM Engineering_page-0001.jpg" width="350" height="300" style="display: block;" />
         </td>
         <td>
-            <h2 style="color:#f71;">Other resources</h2>
-            <span style="color:#f71;">I've put together this webpage with useful resources for the course. This includes links to all the slides.<br/>
-            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a><br/>
-            Please keep this bookmarked, and I'll continue to add more useful links there over time.
-            </span>
+            <h2 style="color:#f71;">Other resources<br/>
+            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a></h2>
         </td>
     </tr>
 </table>
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-    <div style="text-align: center;">
-        <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="ML" style="width: 250px; border-radius: 10px;" />
-        <p style="font-weight: bold;">Machine Learning</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="Python" style="width: 250px; border-radius: 10px;" />
-        <p style="font-weight: bold;">Python Avancé</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="DS" style="width: 250px; border-radius: 10px;" />
-        <p style="font-weight: bold;">Data Science</p>
-    </div>
-</div>
 
 
 ## 📈 GitHub Stats
