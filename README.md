@@ -16,7 +16,24 @@ Welcome to my GitHub profile!
 ## 🌱 Currently Learning
 
 - Development of the AI agent
-  
+
+
+## Certifications
+
+<table style="margin: 0; text-align: left;">
+    <tr>
+        <td style="width: 150px; height: 150px; vertical-align: middle;">
+            <img src="resources.jpg" width="150" height="150" style="display: block;" />
+        </td>
+        <td>
+            <h2 style="color:#f71;">Other resources</h2>
+            <span style="color:#f71;">I've put together this webpage with useful resources for the course. This includes links to all the slides.<br/>
+            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a><br/>
+            Please keep this bookmarked, and I'll continue to add more useful links there over time.
+            </span>
+        </td>
+    </tr>
+</table>
 
 ## 📈 GitHub Stats
 
