@@ -35,14 +35,19 @@ Welcome to my GitHub profile!
     </tr>
 </table>
 
-<div style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: fit-content;">
-    <h3 style="margin: 0; color: #2c3e50;">Certification en Python – DataCamp</h3>
-    <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="Certificat Python" style="width: 400px; border-radius: 8px; margin-top: 10px;" />
-</div>
-
-<div style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 10px; padding: 10px; width: fit-content;">
-    <h3 style="margin: 0; color: #2c3e50;">Certification Data Science – IBM</h3>
-    <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="Certificat Data Science" style="width: 400px; border-radius: 8px; margin-top: 10px;" />
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+    <div style="text-align: center;">
+        <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="ML" style="width: 250px; border-radius: 10px;" />
+        <p style="font-weight: bold;">Machine Learning</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="Python" style="width: 250px; border-radius: 10px;" />
+        <p style="font-weight: bold;">Python Avancé</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="certification Udemy LLM Engineering_page-0001.jpg" alt="DS" style="width: 250px; border-radius: 10px;" />
+        <p style="font-weight: bold;">Data Science</p>
+    </div>
 </div>
 
 
