@@ -22,8 +22,8 @@ Welcome to my GitHub profile!
 
 <table style="margin: 0; text-align: left;">
     <tr>
-        <td style="width: 150px; height: 150px; vertical-align: middle;">
-            <img src="certification Udemy LLM Engineering_page-0001.jpg" width="150" height="150" style="display: block;" />
+        <td style="width: 300px; height: 300px; vertical-align: middle;">
+            <img src="certification Udemy LLM Engineering_page-0001.jpg" width="300" height="300" style="display: block;" />
         </td>
         <td>
             <h2 style="color:#f71;">Other resources</h2>
