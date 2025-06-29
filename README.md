@@ -35,6 +35,19 @@ Welcome to my GitHub profile!
     </tr>
 </table>
 
+<div style="margin-bottom: 15px;">
+    <a href="certificat-python.pdf" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/fluency/48/000000/certificate.png" alt="Icône certificat" style="margin-right: 10px;" />
+        <span style="font-weight: bold; color: #2c3e50;">Certification en Python Avancé – DataCamp</span>
+    </a>
+</div>
+
+<div style="margin-bottom: 15px;">
+    <a href="certification Udemy LLM Engineering_page-0001.jpg" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="https://img.icons8.com/fluency/48/000000/certificate.png" alt="Icône certificat" style="margin-right: 10px;" />
+        <span style="font-weight: bold; color: #2c3e50;">Certification Data Science – Coursera (IBM)</span>
+    </a>
+</div>
 ## 📈 GitHub Stats
 
 ![Hippolyte90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hippolyte90&show_icons=true&theme=radical)
