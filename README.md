@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 - Development of the AI agent
 
 
-## Certifications
+## 🏅 Certifications
 
 <table style="margin: 0; text-align: left;">
     <tr>
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
     </tr>
 </table>
 
-<table style="margin: 0; text-align: left;">
+<table style="margin: 0; text-align: middle;">
     <tr>
         <td style="width: 300px; height: 300px; vertical-align: middle;">
             <img src="CertificatDaccomplissement_Prompt engineering pour la generation de contenu avec lIA_page-0001.jpg" width="350" height="300" style="display: block;" />
