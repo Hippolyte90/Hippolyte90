@@ -48,7 +48,7 @@ Welcome to my GitHub profile!
      <td style="width: 50%; height: 300px; vertical-align: middle;">
             <img src="CertificatDaccomplissement_Prompt engineering pour la generation de contenu avec lIA_page-0001.jpg" width="350" height="300" style="display: block;" />
          <h2 style=""width: 50%; color:#f71;">
-            <a href="https://www.linkedin.com/learning/certificates/40b48c4978252138b1a55333d2fb0a5023db9f9a3038a9780dda25162887bf39">Prompt engineering pour la génération <br/> de contenu avec l'IA </a></h2>
+            <a href="https://www.linkedin.com/learning/certificates/40b48c4978252138b1a55333d2fb0a5023db9f9a3038a9780dda25162887bf39">Prompt engineering pour la génération de <br/> contenu avec l'IA </a></h2>
         </td>
      <td style="width: 50%; height: 300px; vertical-align: middle;">
             <img src="CertificatDaccomplissement_Dataiku pour le machine learning_page-0001.jpg" width="350" height="300" style="display: block;" />
