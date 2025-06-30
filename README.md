@@ -24,9 +24,8 @@ Welcome to my GitHub profile!
     <tr>
         <td style="width: 300px; height: 300px; vertical-align: middle;">
             <img src="certification Udemy LLM Engineering_page-0001.jpg" width="350" height="300" style="display: block;" />
-         <h2 style="color:#f71;">Other resources<br/>
-            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a></h2>
-    
+         <h2 style="color:#f71;">
+            <a href="https://www.udemy.com/certificate/UC-0fe51c35-a3d3-4c5e-9391-85f4667badf4/">LLM Engineering: Master AI, Large Language Models & Agents</a></h2>
         </td>
         <td>
             <h2 style="color:#f71;">Other resources<br/>
