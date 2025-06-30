@@ -27,9 +27,10 @@ Welcome to my GitHub profile!
          <h2 style="color:#f71;">
             <a href="https://www.udemy.com/certificate/UC-0fe51c35-a3d3-4c5e-9391-85f4667badf4/">LLM Engineering: Master AI, Large Language Models & Agents</a></h2>
         </td>
-        <td>
-            <h2 style="color:#f71;">Other resources<br/>
-            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a></h2>
+        <td style="width: 300px; height: 300px; vertical-align: middle;">
+            <img src="CertificatDaccomplissement_Preparer votre carriere dans lIA generative par Microsoft et LinkedIn_page-0001.jpg" width="350" height="300" style="display: block;" />
+         <h2 style="color:#f71;">
+            <a href="https://www.linkedin.com/learning/certificates/ceabeaf2a50832bded0d55fa4ab8054370384d3a33e6a58f4592ed8c4d41c89e">LPréparer votre carrière dans l'IA générative par Microsoft et LinkedIn</a></h2>
         </td>
     </tr>
 </table>
