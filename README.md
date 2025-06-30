@@ -24,7 +24,9 @@ Welcome to my GitHub profile!
     <tr>
         <td style="width: 300px; height: 300px; vertical-align: middle;">
             <img src="certification Udemy LLM Engineering_page-0001.jpg" width="350" height="300" style="display: block;" />
-         <p style="font-weight: bold;">Python Avancé</p>
+         <h2 style="color:#f71;">Other resources<br/>
+            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a></h2>
+    
         </td>
         <td>
             <h2 style="color:#f71;">Other resources<br/>
