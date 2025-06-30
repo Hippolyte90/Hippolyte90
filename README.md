@@ -50,7 +50,15 @@ Welcome to my GitHub profile!
     </tr>
 </table>
 
-
+<table style="margin: 0; text-align: left;">
+    <tr>
+        <td style="width: 300px; height: 300px; vertical-align: middle;">
+            <img src="CertificatDaccomplissement_Apprendre lanalyse des donnees  1 Fondements_page-0001.jpg" width="350" height="300" style="display: block;" />
+         <h2 style="color:#f71;">
+            <a href="https://www.linkedin.com/learning/certificates/1ce885039000e5de153b1cb5c6415768042bdd43279002c964790a9485ca74fe">Apprendre l'analyse des données : 1 Fondements</a></h2>
+        </td>
+    </tr>
+</table>
 
 ## 📈 GitHub Stats
 
