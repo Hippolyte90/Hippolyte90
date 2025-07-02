@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
  ABACUS.AI, Eurostat, IPUMS, Dataiku, StackOverflow, Modal.com, wandb.ai, pushover.net, scale.com.
 - **Tools:**  VS Code, JupyterLab (Anaconda),
  Google Colab, R Studio, Power BI,
- StataNow 18 MP, Pack Office, Git, Cursor, Gradio.
+ StataNow 18 MP, Pack Office, Git, Cursor, Gradio, SQL Workbench.
 - **Others:** RESTful APIs, Microservices, Data analysis, Statistical modeling, Machine Learning, Spatial Analysis
 
 ## 🌱 Currently Learning
