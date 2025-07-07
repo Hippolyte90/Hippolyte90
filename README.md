@@ -11,6 +11,7 @@ Welcome to my GitHub profile!
 - **Tools:**  VS Code, JupyterLab (Anaconda),
  Google Colab, R Studio, Power BI,
  StataNow 18 MP, Pack Office, Git, Cursor, Gradio, MySQL Workbench.
+- **Technologies Cloud:** Google Cloud Platform (BigQuery, Cloud Storage).
 - **Others:** RESTful APIs, Microservices, Data analysis, Statistical modeling, Machine Learning, Spatial Analysis
 
 ## 🌱 Currently Learning
