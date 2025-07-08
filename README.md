@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 - **Email:** [sodjinouhippolyte@gmail.com](mailto:sodjinouhippolyte@gmail.com)
 - **LinkedIn:** [Hippolyte Sodjinou](https://www.linkedin.com/in/hippolyte-sodjinou-639850245/)
+- **Hugging Face:** [Hippolyte SODJINOU](https://huggingface.co/SD-Hippolyte)
 
 ## 🏅 Certifications
 
