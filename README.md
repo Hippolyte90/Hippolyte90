@@ -30,6 +30,25 @@ Welcome to my GitHub profile!
 
 ## 🏅 Certifications
 
+
+
+<table  style="width: 100%; margin: 0; text-align: left;">
+    <tr>
+        <td style="width: 50%; height: 300px; vertical-align: middle;">
+            <img src="Google_Cloud_Plateforme.jpg" width="350" height="300" style="display: block;" />
+         <h2 style="color:#f71;">
+            <a href="https://www.linkedin.com/learning/certificates/841fbf26610884edcdf0cc2f571faaf55627d906ba95939dcd7cb54aec160ffa?trk=share_certificate">L'essentiel de Google Cloud Platform</a></h2>
+        </td>
+        <td style="width: 50%; height: 300px; vertical-align: middle;">
+            <img src="Cert_Data_Ing_Fondements.jpg" width="350" height="300" style="display: block;" />
+         <h2 style="color:#f71;">
+            <a href="https://www.linkedin.com/learning/certificates/cb4f5569a00a9796a63d5acdb4c2cfc18da675b39d6961bfa6706281dccf98d1?trk=share_certificate">Les fondements du data engineering</a></h2>
+        </td>
+    </tr>
+</table>
+
+
+
 <table  style="width: 100%; margin: 0; text-align: left;">
     <tr>
         <td style="width: 50%; height: 300px; vertical-align: middle;">
