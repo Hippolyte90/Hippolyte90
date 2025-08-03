@@ -28,10 +28,7 @@ Welcome to my GitHub profile!
 - **LinkedIn:** [Hippolyte Sodjinou](https://www.linkedin.com/in/hippolyte-sodjinou-639850245/)
 - **Hugging Face:** [Hippolyte SODJINOU](https://huggingface.co/SD-Hippolyte)
 
-## 🏅 Certifications
-
-<h2 style="color:#f71;">
-            <a href="https://www.linkedin.com/learning/certificates/841fbf26610884edcdf0cc2f571faaf55627d906ba95939dcd7cb54aec160ffa?trk=share_certificate">L'essentiel de Google Cloud Platform</a></h2>
+## <h2 style="color:#f71;"><a href="https://github.com/Hippolyte90/Certifications">🏅 Certifications</a></h2>
 
 ## 💬 Let's Connect!
 
